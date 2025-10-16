@@ -1,4 +1,4 @@
-# Maze-solver
+[# Maze-solver
 IR Proximity Sensor Calibration & Usage Guide
 
 This project provides a two-step process for accurately measuring distance using a simple IR (Infrared) LED and photodiode pair. It includes a dedicated calibration sketch to find sensor-specific constants and a main sketch for real-world distance measurement.
@@ -116,3 +116,4 @@ Recalibration is Key: The K and C values are highly dependent on the ambient lig
 Reliable Range: This type of sensor is most reliable for short distances. The example code includes a check to only print distances between 2 cm and 10 cm. You may need to adjust this range based on your sensor's performance.
 
 Object Surface: The calibration was designed using a white, non-glossy surface. Dark, transparent, or highly reflective objects will give different readings and may not be measured accurately.
+](https://gemini.google.com/share/1a9c5104729c)
